@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to function overloading. VBScript does not support this feature, leading to unexpected behavior if multiple functions with the same name are defined. The `bug.vbs` file shows the problematic code, while `bugSolution.vbs` presents a workaround using different function names or parameter checking.
